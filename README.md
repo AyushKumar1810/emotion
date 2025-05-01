@@ -65,7 +65,7 @@
 
 
 - [**List of all Demo applications**](https://github.com/vladmandic/human/wiki/Demos)
-- [**Live Examples galery**](https://vladmandic.github.io/human/samples/index.html)
+- 
 
 ### Browser Demos
 
@@ -148,10 +148,6 @@
 
 <hr><br>
 
-## App Examples
-
-Visit [Examples gallery](https://vladmandic.github.io/human/samples/index.html) for more examples  
-[<img src="assets/samples.jpg" width="640"/>](assets/samples.jpg)
 
 <br>
 
@@ -167,52 +163,8 @@ All options as presented in the demo application...
 [ *Demo -> Display -> Show Results* ]<br>
 [<img src="assets/screenshot-results.png"/>](assets/screenshot-results.png)
 
-<br>
-
-## Advanced Examples
-
-1. **Face Similarity Matching:**  
-Extracts all faces from provided input images,  
-sorts them by similarity to selected face  
-and optionally matches detected face with database of known people to guess their names
-> [demo/facematch](demo/facematch/index.html)  
-
-[<img src="assets/screenshot-facematch.jpg" width="640"/>](assets/screenshot-facematch.jpg)
-
-2. **Face Detect:**  
-Extracts all detect faces from loaded images on-demand and highlights face details on a selected face  
-> [demo/facedetect](demo/facedetect/index.html)  
-
-[<img src="assets/screenshot-facedetect.jpg" width="640"/>](assets/screenshot-facedetect.jpg)
-
-3. **Face ID:**  
-Performs validation check on a webcam input to detect a real face and matches it to known faces stored in database
-> [demo/faceid](demo/faceid/index.html)  
-
-[<img src="assets/screenshot-faceid.jpg" width="640"/>](assets/screenshot-faceid.jpg)
-
-<br>
-
-4. **3D Rendering:**  
-> [human-motion](https://github.com/vladmandic/human-motion)
-
-[<img src="https://github.com/vladmandic/human-motion/raw/main/assets/screenshot-face.jpg" width="640"/>](https://github.com/vladmandic/human-motion/raw/main/assets/screenshot-face.jpg)
-[<img src="https://github.com/vladmandic/human-motion/raw/main/assets/screenshot-body.jpg" width="640"/>](https://github.com/vladmandic/human-motion/raw/main/assets/screenshot-body.jpg)
-[<img src="https://github.com/vladmandic/human-motion/raw/main/assets/screenshot-hand.jpg" width="640"/>](https://github.com/vladmandic/human-motion/raw/main/assets/screenshot-hand.jpg)
-
-<br>
-
-5. **VR Model Tracking:**  
-> [human-three-vrm](https://github.com/vladmandic/human-three-vrm)  
-> [human-bjs-vrm](https://github.com/vladmandic/human-bjs-vrm)  
-
-[<img src="https://github.com/vladmandic/human-three-vrm/raw/main/assets/human-vrm-screenshot.jpg" width="640"/>](https://github.com/vladmandic/human-three-vrm/raw/main/assets/human-vrm-screenshot.jpg)
 
 
-6. **Human as OS native application:**
-> [human-electron](https://github.com/vladmandic/human-electron)
-
-<br>
 
 **468-Point Face Mesh Defails:**  
 (view in full resolution to see keypoints)  
@@ -459,11 +411,4 @@ and [**API Specification**](https://vladmandic.github.io/human/typedoc/classes/H
 
 <br>
 
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/vladmandic)
-![Stars](https://img.shields.io/github/stars/vladmandic/human?style=flat-square&svg=true)
-![Forks](https://badgen.net/github/forks/vladmandic/human)
-![Code Size](https://img.shields.io/github/languages/code-size/vladmandic/human?style=flat-square&svg=true)
-![CDN](https://data.jsdelivr.com/v1/package/npm/@vladmandic/human/badge)<br>
-![Downloads](https://img.shields.io/npm/dw/@vladmandic/human.png?style=flat-square)
-![Downloads](https://img.shields.io/npm/dm/@vladmandic/human.png?style=flat-square)
-![Downloads](https://img.shields.io/npm/dy/@vladmandic/human.png?style=flat-square)
+
